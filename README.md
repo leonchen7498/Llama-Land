@@ -1,11 +1,11 @@
-# IP Llama Land
-A digital version of the board game Llama Land!
+# Llama Land
+A digital version of the board game Llama Land! This was created during the traineeship program of Sogyo where a trainee had to finish their own project in 3 weeks. To challenge myself I decided to try writing the entire stack in languages/frameworks I'm unfamiliar with such as Scala for the domain and the Vue framework for the front-end. 
 
 # Description
 Every player starts with a large starting piece (consisting of 4x4 tiles), every turn a player can take 1 piece and try to either place it next to another tile or place it on top of some tiles. When the player puts the piece on top of some tiles, they'll gain all the crops of the overlapped tiles. With 4 crops a player can buy a llama and place it on the board. The player with the most llama's wins! (not quite but there's not enough time to implement the point system)
 
 # Installation
-You need to have Scala, SBT and Node.js installed (From Scala 3.5.0 onwards, Scala has SBT bundled with the installation)<br>
+You need to have Scala, SBT and Node.js installed (From Scala 3.5.0 onwards, SBT is bundled with the installation)<br>
 Before running the application install the Node.js packages by running the following commands
 
 `cd client`
@@ -27,6 +27,8 @@ The application is built as a layered monolith. The front-end aka the client lay
 
 
 # Requirements
+Since it was a 3 week project I also had to set requirements, you can see which requirements I had down below. The requirements I managed to finish are marked.
+
 **Must**
 - A player can choose a piece based on a list of pieces ✔
 - A player can place a tile next to another tile ✔
@@ -57,6 +59,8 @@ The application is built as a layered monolith. The front-end aka the client lay
 
 
 # Technical and personal goals
+The project had as goal to challenge yourself, so I decided to add the following goals.
+
 **Technical goals**
 - Making an entire backend with Scala and learning how to use the Play framework
 - Learning how to use Vue
