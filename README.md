@@ -59,7 +59,7 @@ Since it was a 3 week project I also had to set requirements, you can see which 
 
 
 # Technical and personal goals
-The project had as goal to challenge yourself, so I decided to add the following goals.
+The project had a goal to challenge yourself, so I had the following goals.
 
 **Technical goals**
 - Making an entire backend with Scala and learning how to use the Play framework
