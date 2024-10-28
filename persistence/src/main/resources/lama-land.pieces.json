@@ -1,0 +1,572 @@
+[{
+  "_id": {
+    "$oid": "66eab8e2f4f3b1323949b7ab"
+  },
+  "pieceType": "Start",
+  "pieceTiles": [
+    {
+      "tileType": "corn",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "tileType": "cocoa",
+      "x": 1,
+      "y": 0
+    },
+    {
+      "tileType": "grass",
+      "x": 2,
+      "y": 0
+    },
+    {
+      "tileType": "potato",
+      "x": 3,
+      "y": 0
+    },
+    {
+      "tileType": "grass",
+      "x": 0,
+      "y": 1
+    },
+    {
+      "tileType": "grass",
+      "x": 1,
+      "y": 1
+    },
+    {
+      "tileType": "grass",
+      "x": 2,
+      "y": 1
+    },
+    {
+      "tileType": "cocoa",
+      "x": 3,
+      "y": 1
+    },
+    {
+      "tileType": "potato",
+      "x": 0,
+      "y": 2
+    },
+    {
+      "tileType": "grass",
+      "x": 1,
+      "y": 2
+    },
+    {
+      "tileType": "grass",
+      "x": 2,
+      "y": 2
+    },
+    {
+      "tileType": "grass",
+      "x": 3,
+      "y": 2
+    },
+    {
+      "tileType": "corn",
+      "x": 0,
+      "y": 3
+    },
+    {
+      "tileType": "grass",
+      "x": 1,
+      "y": 3
+    },
+    {
+      "tileType": "potato",
+      "x": 2,
+      "y": 3
+    },
+    {
+      "tileType": "cocoa",
+      "x": 3,
+      "y": 3
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66eab8e2f4f3b1323949b7ac"
+  },
+  "pieceType": "Start",
+  "pieceTiles": [
+    {
+      "tileType": "potato",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "tileType": "cocoa",
+      "x": 1,
+      "y": 0
+    },
+    {
+      "tileType": "grass",
+      "x": 2,
+      "y": 0
+    },
+    {
+      "tileType": "corn",
+      "x": 3,
+      "y": 0
+    },
+    {
+      "tileType": "grass",
+      "x": 0,
+      "y": 1
+    },
+    {
+      "tileType": "grass",
+      "x": 1,
+      "y": 1
+    },
+    {
+      "tileType": "grass",
+      "x": 2,
+      "y": 1
+    },
+    {
+      "tileType": "potato",
+      "x": 3,
+      "y": 1
+    },
+    {
+      "tileType": "corn",
+      "x": 0,
+      "y": 2
+    },
+    {
+      "tileType": "grass",
+      "x": 1,
+      "y": 2
+    },
+    {
+      "tileType": "grass",
+      "x": 2,
+      "y": 2
+    },
+    {
+      "tileType": "grass",
+      "x": 3,
+      "y": 2
+    },
+    {
+      "tileType": "cocoa",
+      "x": 0,
+      "y": 3
+    },
+    {
+      "tileType": "grass",
+      "x": 1,
+      "y": 3
+    },
+    {
+      "tileType": "corn",
+      "x": 2,
+      "y": 3
+    },
+    {
+      "tileType": "cocoa",
+      "x": 3,
+      "y": 3
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66eab8e7f4f3b1323949b7ad"
+  },
+  "pieceType": "+",
+  "pieceTiles": [
+    {
+      "tileType": "grass",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "tileType": "grass",
+      "x": 0,
+      "y": -1
+    },
+    {
+      "tileType": "potato",
+      "x": 1,
+      "y": 0
+    },
+    {
+      "tileType": "corn",
+      "x": 0,
+      "y": 1
+    },
+    {
+      "tileType": "cocoa",
+      "x": -1,
+      "y": 0
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66eab8e7f4f3b1323949b7ae"
+  },
+  "pieceType": "+",
+  "pieceTiles": [
+    {
+      "tileType": "grass",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "tileType": "grass",
+      "x": 0,
+      "y": -1
+    },
+    {
+      "tileType": "corn",
+      "x": 1,
+      "y": 0
+    },
+    {
+      "tileType": "potato",
+      "x": 0,
+      "y": 1
+    },
+    {
+      "tileType": "corn",
+      "x": -1,
+      "y": 0
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66eab8e7f4f3b1323949b7af"
+  },
+  "pieceType": "+",
+  "pieceTiles": [
+    {
+      "tileType": "grass",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "tileType": "grass",
+      "x": 0,
+      "y": -1
+    },
+    {
+      "tileType": "potato",
+      "x": 1,
+      "y": 0
+    },
+    {
+      "tileType": "cocoa",
+      "x": 0,
+      "y": 1
+    },
+    {
+      "tileType": "potato",
+      "x": -1,
+      "y": 0
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66eab8e7f4f3b1323949b7b0"
+  },
+  "pieceType": "+",
+  "pieceTiles": [
+    {
+      "tileType": "grass",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "tileType": "grass",
+      "x": 0,
+      "y": -1
+    },
+    {
+      "tileType": "cocoa",
+      "x": 1,
+      "y": 0
+    },
+    {
+      "tileType": "corn",
+      "x": 0,
+      "y": 1
+    },
+    {
+      "tileType": "cocoa",
+      "x": -1,
+      "y": 0
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66eab8e7f4f3b1323949b7b1"
+  },
+  "pieceType": "S",
+  "pieceTiles": [
+    {
+      "tileType": "potato",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "tileType": "grass",
+      "x": 0,
+      "y": -1
+    },
+    {
+      "tileType": "corn",
+      "x": 1,
+      "y": -1
+    },
+    {
+      "tileType": "grass",
+      "x": 0,
+      "y": 1
+    },
+    {
+      "tileType": "cocoa",
+      "x": -1,
+      "y": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66eab8e7f4f3b1323949b7b2"
+  },
+  "pieceType": "S",
+  "pieceTiles": [
+    {
+      "tileType": "corn",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "tileType": "grass",
+      "x": 0,
+      "y": -1
+    },
+    {
+      "tileType": "cocoa",
+      "x": 1,
+      "y": -1
+    },
+    {
+      "tileType": "grass",
+      "x": 0,
+      "y": 1
+    },
+    {
+      "tileType": "cocoa",
+      "x": -1,
+      "y": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66eab8e7f4f3b1323949b7b3"
+  },
+  "pieceType": "S",
+  "pieceTiles": [
+    {
+      "tileType": "cocoa",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "tileType": "grass",
+      "x": 0,
+      "y": -1
+    },
+    {
+      "tileType": "potato",
+      "x": 1,
+      "y": -1
+    },
+    {
+      "tileType": "grass",
+      "x": 0,
+      "y": 1
+    },
+    {
+      "tileType": "potato",
+      "x": -1,
+      "y": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66eab8e7f4f3b1323949b7b4"
+  },
+  "pieceType": "S",
+  "pieceTiles": [
+    {
+      "tileType": "cocoa",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "tileType": "grass",
+      "x": 0,
+      "y": -1
+    },
+    {
+      "tileType": "corn",
+      "x": 1,
+      "y": -1
+    },
+    {
+      "tileType": "grass",
+      "x": 0,
+      "y": 1
+    },
+    {
+      "tileType": "corn",
+      "x": -1,
+      "y": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66eab8e7f4f3b1323949b7b5"
+  },
+  "pieceType": "T",
+  "pieceTiles": [
+    {
+      "tileType": "potato",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "tileType": "grass",
+      "x": 0,
+      "y": -1
+    },
+    {
+      "tileType": "corn",
+      "x": 1,
+      "y": -1
+    },
+    {
+      "tileType": "corn",
+      "x": -1,
+      "y": -1
+    },
+    {
+      "tileType": "grass",
+      "x": 0,
+      "y": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66eab8e7f4f3b1323949b7b6"
+  },
+  "pieceType": "T",
+  "pieceTiles": [
+    {
+      "tileType": "corn",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "tileType": "grass",
+      "x": 0,
+      "y": -1
+    },
+    {
+      "tileType": "cocoa",
+      "x": 1,
+      "y": -1
+    },
+    {
+      "tileType": "cocoa",
+      "x": -1,
+      "y": -1
+    },
+    {
+      "tileType": "grass",
+      "x": 0,
+      "y": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66eab8e7f4f3b1323949b7b7"
+  },
+  "pieceType": "T",
+  "pieceTiles": [
+    {
+      "tileType": "cocoa",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "tileType": "grass",
+      "x": 0,
+      "y": -1
+    },
+    {
+      "tileType": "potato",
+      "x": 1,
+      "y": -1
+    },
+    {
+      "tileType": "potato",
+      "x": -1,
+      "y": -1
+    },
+    {
+      "tileType": "grass",
+      "x": 0,
+      "y": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66eab8e7f4f3b1323949b7b8"
+  },
+  "pieceType": "T",
+  "pieceTiles": [
+    {
+      "tileType": "potato",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "tileType": "grass",
+      "x": 0,
+      "y": -1
+    },
+    {
+      "tileType": "cocoa",
+      "x": 1,
+      "y": -1
+    },
+    {
+      "tileType": "corn",
+      "x": -1,
+      "y": -1
+    },
+    {
+      "tileType": "grass",
+      "x": 0,
+      "y": 1
+    }
+  ]
+}]

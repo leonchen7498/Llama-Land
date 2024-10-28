@@ -1,0 +1,10 @@
+image: sbtscala/scala-sbt:eclipse-temurin-alpine-21.0.2_13_1.10.1_3.5.0
+
+stages:
+    - verify
+
+verify_job:
+    stage: verify
+    script:
+        - sbt domain/test domain/coverageReport
+

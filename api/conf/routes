@@ -1,0 +1,17 @@
+# Routes
+# This file defines all application routes (Higher priority routes first)
+# https://www.playframework.com/documentation/latest/ScalaRouting
+# ~~~~
+
+# An example controller showing a sample home page
++nocsrf
+POST    /start          controllers.GameController.startGame()
+GET     /getgame        controllers.GameController.getGame(gameKey: String)
+GET     /endturn        controllers.GameController.endTurn()
+GET     /placetile      controllers.GameController.placeTile(pieceType: String, x: Int, y: Int)
+GET     /llama          controllers.GameController.placeAndBuyLlama(cropType: String, x: Int, y: Int)
+GET     /rotate         controllers.GameController.rotatePieces()
+GET     /flip           controllers.GameController.flipPieces()
+
+# Map static resources from the /public folder to the /assets URL path
+GET     /assets/*file               controllers.Assets.versioned(path="/public", file: Asset)
