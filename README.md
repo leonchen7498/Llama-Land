@@ -1,5 +1,5 @@
 # Llama Land
-A digital version of the board game Llama Land! This was created during the traineeship program of Sogyo where a trainee had to finish their own project in 3 weeks. To challenge myself I decided to try writing the entire stack in languages/frameworks I'm unfamiliar with such as Scala for the domain and the Vue framework for the front-end.
+A digital version of the board game Llama Land! This was created during the traineeship program of Sogyo where every trainee had to finish their own project in 3 weeks. To challenge myself I decided to try writing the entire stack in languages/frameworks I'm unfamiliar with such as Scala for the domain and the Vue framework for the front-end.
 
 # Game description
 Every player starts with a large starting piece (consisting of 4x4 tiles), every turn a player can take 1 piece and try to either place it next to another tile or place it on top of some tiles. When the player puts the piece on top of some tiles, they'll gain all the crops of the overlapped tiles. With 4 crops a player can buy a llama and place it on the board. The player with the most llama's wins! (not quite but there's not enough time to implement the point system)
